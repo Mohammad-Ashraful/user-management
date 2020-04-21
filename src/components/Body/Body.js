@@ -26,8 +26,7 @@ const Body = () => {
                     handlePaySalary = {handlePaySalary}
                     user = {usr}></User>)
             }
-            </div>
-            
+            </div> 
         </div>
         
     );
